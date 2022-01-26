@@ -23,12 +23,13 @@
   <li>React hooks profesional</li>
   <li>Tranformaciones y transiciones en css</li>
   <li>Animaciones con css</li>
-  <li>Fundamentos de bases de datos</li>
-  <li>SQL y MySQL</li>
+  <li>Introduccion desarrollo Backend</li>
+  <li>Fundamentos de bases de datos</li> *
+  <li>SQL y MySQL</li> *
   <li>PostgreSQL</li>
   <li>MongoDB</li>
-  <li>Introduccion desarrollo Backend</li>
-  <li>Node.js</li>
+  <li>Docker</li>
+  <li>Firebase</li>
   <li>Accesibilida web</li>
   <li>Optimización web</li>
 </ul>
