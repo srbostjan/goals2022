@@ -4,6 +4,7 @@
   <li>qué debo empezar a hacer?</li>
   <li>Qué estoy haciendo y debo continuar?</li>
   <li>Qué debo dejar de hacer?</li>
+  - procrastinar y hacer deepScroll
 </ul>
 
 <h2>desarrollo personal:</h2>
